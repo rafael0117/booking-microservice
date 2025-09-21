@@ -93,6 +93,11 @@
 			<artifactId>spring-cloud-starter-vault-config</artifactId>
 		<!-- la versión compatible con tu Spring Cloud / Boot -->
 		</dependency>
+		<dependency>
+			<groupId>org.springframework.cloud</groupId>
+			<artifactId>spring-cloud-bus-dependencies</artifactId>
+			<version>4.0.1</version>
+		</dependency>
 
 
 
